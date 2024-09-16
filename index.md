@@ -21,3 +21,6 @@ import numpy as np
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] go to gym
+- [ ] home cooked meal
